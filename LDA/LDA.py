@@ -1,6 +1,6 @@
-#author:bai
+#author:Xuxu bai        
 #coding=utf-8
-#2016-08-23
+#2016-08-23         参考邹博的LDA课程实现
 import jieba
 import random
 import sys
