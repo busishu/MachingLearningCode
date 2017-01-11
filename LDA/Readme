@@ -1,0 +1,3 @@
+ stop_words_ch.txt          中文停用词
+ LDA.py                     实现的LDA算法,配好相关路径即可直接执行.
+ Markov_distribution.py     马尔科夫链的平稳收敛举例
